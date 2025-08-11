@@ -1,5 +1,5 @@
 {
-  "name": "@activepieces/piece-drupal",
+  "name": "@jurgenhaas/piece-drupal",
   "version": "0.0.1",
   "type": "commonjs",
   "main": "./src/index.js",
